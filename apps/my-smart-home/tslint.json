@@ -1,0 +1,7 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [true, "attribute", "mySmartHome", "camelCase"],
+    "component-selector": [true, "element", "my-smart-home", "kebab-case"]
+  }
+}
